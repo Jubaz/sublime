@@ -1,0 +1,431 @@
+{
+	"folder_history":
+	[
+		"/C/wamp64/www/study",
+		"/C/Users/Gol3a",
+		"/C/lara",
+		"/C/wamp64/www",
+		"/C/wamp64/www/everything",
+		"/C/xampp/htdocs/everything"
+	],
+	"last_version": 3143,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 694.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "install ",
+				"selected_items":
+				[
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/laravel/paymestoreweb/app/Models/bank/Bank.php",
+				"/D/laravel/paymestoreweb/app/Models/bank/BankAccount.php",
+				"/C/Users/Gol3a/Desktop/Mosawer/Mosawer/Mosawer.net.html",
+				"/C/lara/blog/resources/views/home.blade.php",
+				"/C/lara/blog/app/Http/Controllers/PostsController.php",
+				"/C/new lara/todo/readme.md",
+				"/C/wamp64/www/api/application/models/Mdl_question.php",
+				"/C/Users/Gol3a/Desktop/laracasts-downloader-master/laracasts-downloader-master/.env.example",
+				"/C/new lara/todo/database/seeds/DatabaseSeeder.php",
+				"/C/lara/juba/to-do/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/lara/juba/to-do/database/migrations/2018_01_21_133939_create_items_table.php",
+				"/C/Users/Gol3a/Desktop/ad.md",
+				"/C/lara/juba/to-do/database/migrations/2018_01_21_132137_create_categories_table.php",
+				"/C/lara/juba/to-do/database/seeds/DatabaseSeeder.php",
+				"/C/lara/blog/app/User.php",
+				"/C/lara/blog/app/User_type.php",
+				"/C/lara/blog/app/Post.php",
+				"/C/lara/blog/app/comment.php",
+				"/C/Users/Gol3a/.ssh/id_rsa.pub",
+				"/C/Users/Gol3a/Desktop/readme.md",
+				"/C/wamp64/www/everything/application/controllers/home.php",
+				"/C/lara/to-do/database/factories/UserFactory.php",
+				"/C/lara/juba/to-do/database/factories/itemFactory.php",
+				"/C/lara/blog/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/C/lara/blog1/app/Providers/AppServiceProvider.php",
+				"/C/lara/blog/app/Http/Middleware/AdminMiddleware.php",
+				"/C/lara/blog/database/migrations/2017_11_06_203530_create_posts_table.php",
+				"/C/wamp64/www/test.php",
+				"/C/lara/E-courses/app/Http/Controllers/CoursesController.php",
+				"/C/wamp64/www/everything/themes/frontend/cms/addPost.php",
+				"/C/wamp64/www/everything/index.php",
+				"/C/xampp/htdocs/everything/application/controllers/contactus.php",
+				"/C/xampp/htdocs/everything/application/controllers/api.php",
+				"/C/xampp/htdocs/everything/sftp-config.json",
+				"/C/xampp/htdocs/everything/assets/sse.php",
+				"/C/xampp/htdocs/everything/application/config/constants.php",
+				"/C/xampp/htdocs/everything/themes/frontend/cms/js/bootstrap-tagsinput.js"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"paymeAuthProvider"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 102.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 166.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1020.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "install ",
+				"selected_items":
+				[
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/laravel/paymestoreweb/app/Models/bank/Bank.php",
+				"/D/laravel/paymestoreweb/app/Models/bank/BankAccount.php",
+				"/C/Users/Gol3a/Desktop/Mosawer/Mosawer/Mosawer.net.html",
+				"/C/lara/blog/resources/views/home.blade.php",
+				"/C/lara/blog/app/Http/Controllers/PostsController.php",
+				"/C/new lara/todo/readme.md",
+				"/C/wamp64/www/api/application/models/Mdl_question.php",
+				"/C/Users/Gol3a/Desktop/laracasts-downloader-master/laracasts-downloader-master/.env.example",
+				"/C/new lara/todo/database/seeds/DatabaseSeeder.php",
+				"/C/lara/juba/to-do/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/lara/juba/to-do/database/migrations/2018_01_21_133939_create_items_table.php",
+				"/C/Users/Gol3a/Desktop/ad.md",
+				"/C/lara/juba/to-do/database/migrations/2018_01_21_132137_create_categories_table.php",
+				"/C/lara/juba/to-do/database/seeds/DatabaseSeeder.php",
+				"/C/lara/blog/app/User.php",
+				"/C/lara/blog/app/User_type.php",
+				"/C/lara/blog/app/Post.php",
+				"/C/lara/blog/app/comment.php",
+				"/C/Users/Gol3a/.ssh/id_rsa.pub",
+				"/C/Users/Gol3a/Desktop/readme.md",
+				"/C/wamp64/www/everything/application/controllers/home.php",
+				"/C/lara/to-do/database/factories/UserFactory.php",
+				"/C/lara/juba/to-do/database/factories/itemFactory.php",
+				"/C/lara/blog/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/C/lara/blog1/app/Providers/AppServiceProvider.php",
+				"/C/lara/blog/app/Http/Middleware/AdminMiddleware.php",
+				"/C/lara/blog/database/migrations/2017_11_06_203530_create_posts_table.php",
+				"/C/wamp64/www/test.php",
+				"/C/lara/E-courses/app/Http/Controllers/CoursesController.php",
+				"/C/wamp64/www/everything/themes/frontend/cms/addPost.php",
+				"/C/wamp64/www/everything/index.php",
+				"/C/xampp/htdocs/everything/application/controllers/contactus.php",
+				"/C/xampp/htdocs/everything/application/controllers/api.php",
+				"/C/xampp/htdocs/everything/sftp-config.json",
+				"/C/xampp/htdocs/everything/assets/sse.php",
+				"/C/xampp/htdocs/everything/application/config/constants.php",
+				"/C/xampp/htdocs/everything/themes/frontend/cms/js/bootstrap-tagsinput.js"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"paymeAuthProvider"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 102.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,944,877,191,1913",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 166.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
